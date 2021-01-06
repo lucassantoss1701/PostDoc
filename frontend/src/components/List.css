@@ -1,0 +1,35 @@
+.container-card{
+    display: flex;
+    width: 250rem;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+
+.card{
+    flex-wrap: wrap;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;  
+}
+
+.containerr{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+} 
+
+.texttitle{
+    position: center;
+    display: flex;
+    align-items: center;
+}
+
+.rowbutton{
+    position: absolute;
+    right: 0;
+    margin: 20px;
+}
+
+.bold{
+    font-weight: bolder;
+}
